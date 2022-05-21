@@ -1,5 +1,4 @@
 # johnpaul.github.com
-<!DOCTYPE html>
 <style>
 html,body{
   height: 100%;
@@ -238,4 +237,3 @@ html,body{
 </div>
 </div>
 </div><a target='_blank' href='www.htmlbestcodes.com' style='font-size: 8pt; text-decoration: none'>Html Best Codes</a>                                                
-</html>                                            
